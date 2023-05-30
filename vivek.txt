@@ -1,0 +1,4 @@
+Note:This is a sample file.
+Hi
+How are you?
+Let's begin the work.
